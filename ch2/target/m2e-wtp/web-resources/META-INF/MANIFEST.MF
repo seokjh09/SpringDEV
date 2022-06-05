@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+<<<<<<< HEAD
+Built-By: caste
+=======
+Built-By: juhee
+>>>>>>> ea0814e3185df4db3e6d2bc9422fbff170cbc5fb
+Build-Jdk: 11.0.2
+Created-By: Maven Integration for Eclipse
+
